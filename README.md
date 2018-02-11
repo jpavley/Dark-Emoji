@@ -8,9 +8,12 @@ I looked around at open source and creative commons alternative and I was not ha
 
 This is the start of a big project. In addition to vector art and multiple resolution images for over 2000 emoji I need to write tools to manage all this mess. Right now, I'm using these new emoji as images but I plan on making a proper Dark Emoji Font in Apple and Google color type formats. 
 
-So be patient or join in.
+So be patient or join in :)
 
 ## Design Idea
+
+![Image of Dark Emoji 12](https://github.com/jpavley/Dark-Emoji/blob/master/app-art/detail-view/dv-dark-emoji-0012%402x.png)
+
 
 Traditional emoji are bright, sunny, and cute. Dark Emoji for dark, gothic, and cute. Dark Emoji are not a replacement for traditional emoji--they represent a different emotional tone. Sometimes you want to LOL in a darker vein. Sometime you're crying scarlet tears. Sometime the mortality of all things infuses your mood and gives it a deep bass undertone of meaning to the trivial communications of life.
 
