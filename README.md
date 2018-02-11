@@ -1,6 +1,6 @@
 # Dark-Emoji
 
-![Image of Dark Emoji 2]()
+![Image of Dark Emoji 2](https://github.com/jpavley/Dark-Emoji/blob/master/app-art/detail-view/dv-dark-emoji-0002%402x.png)
 
 Early in 2018 Apple started rejecting apps that used Apple Emoji Font emoji as user interface elements. This change in policy or enforcement of existing policy meant that my apps, Emoji Tac Toe and Emoji Spy, were no longer acceptable for publishing in the Apple App Store. And that's fine. It' Apple artwork and its Apple's store. Thus, I needed replacement emoji art if I wanted to continue my exploration of emoji.
 
