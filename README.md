@@ -1,5 +1,7 @@
 # Dark-Emoji
 
+![Image of Dark Emoji 2]()
+
 Early in 2018 Apple started rejecting apps that used Apple Emoji Font emoji as user interface elements. This change in policy or enforcement of existing policy meant that my apps, Emoji Tac Toe and Emoji Spy, were no longer acceptable for publishing in the Apple App Store. And that's fine. It' Apple artwork and its Apple's store. Thus, I needed replacement emoji art if I wanted to continue my exploration of emoji.
 
 I looked around at open source and creative commons alternative and I was not happy. Most of these lookedlike hasty imitations of Apple's originals. And most had some kind of low res base version licensed for free with high res and vector behind a paid license. What I wanted were origianl stylish emoji with a true open source emoji. So here we are! I started drawing my own interpretation of emoji under the MIT license.
