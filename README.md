@@ -21,6 +21,8 @@ Long term, spectrum of human emotion can't be contained by yellow smileyes and y
 
 ## Technical Notes
 
+![Image of Dark Emoji 27](https://github.com/jpavley/Dark-Emoji/blob/master/app-art/detail-view/dv-dark-emoji-0027%402x.png)
+
 I'm using a commercial macOS app called Graphics to design and implement Dark Emoji. It's not open source and it's not made by Adobe but I'm really happy with it. Its fast and reliable and has great export options, including SVG, PNG, and Swift Code.
 
 I'm creating vector graphics with Graphics and exporting them as three sets of iOS compatible PNG files: 25x25 (button sized), 60x60 (table view sized), 200x200 (detail view size). I'm not doing anything crazy with the color palette. Its whatever Graphics has as the default.
