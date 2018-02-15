@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1024" height="1024" viewBox="0, 0, 1024, 1024">
+  <g id="dark-emoji-0037.png" transform="translate(0, 0)">
+    <path d="M512,976 C255.74,976 48,768.26 48,512 C48,255.74 255.74,48 512,48 C768.26,48 976,255.74 976,512 C976,768.26 768.26,976 512,976 z" fill="#0C42F2"/>
+    <path d="M512,880 C255.74,880 48,715.241 48,512 C48,308.759 255.74,144 512,144 C768.26,144 976,308.759 976,512 C976,715.241 768.26,880 512,880 z" fill="#3866FF"/>
+    <path d="M512.5,976.5 C256.24,976.5 48.5,768.76 48.5,512.5 C48.5,256.24 256.24,48.5 512.5,48.5 C768.76,48.5 976.5,256.24 976.5,512.5 C976.5,768.76 768.76,976.5 512.5,976.5 z" fill-opacity="0" stroke="#001156" stroke-width="41"/>
+    <path d="M512,928 C450.144,928 400,902.928 400,872 C400,841.072 450.144,816 512,816 C573.856,816 624,841.072 624,872 C624,902.928 573.856,928 512,928 z" fill="#3866FF"/>
+    <g/>
+    <g/>
+    <path d="M391.425,259.026 C312.985,213.738 212.685,240.614 167.397,319.054" fill-opacity="0" stroke="#001156" stroke-width="41" stroke-linecap="round"/>
+    <path d="M853.465,319.334 C808.178,240.894 707.877,214.019 629.437,259.306" fill-opacity="0" stroke="#001156" stroke-width="41" stroke-linecap="round"/>
+    <g>
+      <g>
+        <path d="M301,464 C256.817,464 221,442.515 221,382.5 C221,322.485 256.817,301 301,301 C345.183,301 381,322.485 381,382.5 C381,442.515 345.183,464 301,464 z" fill="#6887FF"/>
+      </g>
+      <path d="M221.5,383 L381.5,383" fill-opacity="0" stroke="#011256" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g>
+      <g>
+        <path d="M720,464 C675.817,464 640,442.515 640,382.5 C640,322.485 675.817,301 720,301 C764.183,301 800,322.485 800,382.5 C800,442.515 764.183,464 720,464 z" fill="#6887FF"/>
+      </g>
+      <path d="M640.5,383 L800.5,383" fill-opacity="0" stroke="#011256" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g>
+      <path d="M511,721.5 C395.296,721.5 339.5,696.5 301.5,651" fill-opacity="0" stroke="#001156" stroke-width="43" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M720.5,651 C681.5,696.5 626.704,721.5 511,721.5" fill-opacity="0" stroke="#001156" stroke-width="43" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g>
+      <path d="M698.508,679.127 L692.586,763.175 L688.235,835.66 L648.225,775.062 L608.215,714.464 L652.576,702.578 z" fill="#CFB401"/>
+      <path d="M697.732,738.024 L691.498,781.297 L685.263,824.57 L658.227,790.211 L631.192,755.853 L664.462,746.939 z" fill="#FFEE91"/>
+      <path d="M699.008,679.627 L693.086,763.675 L688.735,836.16 L648.725,775.562 L608.715,714.964 L653.076,703.078 z" fill-opacity="0" stroke="#001156" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g>
+      <path d="M323.215,679.127 L329.138,763.175 L333.489,835.66 L373.498,775.062 L413.508,714.464 L369.148,702.578 z" fill="#CFB401"/>
+      <path d="M323.991,738.024 L330.226,781.297 L336.46,824.57 L363.496,790.211 L390.532,755.853 L357.262,746.939 z" fill="#FFEE91"/>
+      <path d="M323.715,679.627 L329.638,763.675 L333.989,836.16 L373.998,775.562 L414.008,714.964 L369.648,703.078 z" fill-opacity="0" stroke="#001156" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
