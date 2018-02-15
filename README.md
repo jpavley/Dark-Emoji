@@ -1,6 +1,6 @@
 # Dark-Emoji
 
-![Image of Dark Emoji 2](https://github.com/jpavley/Dark-Emoji/blob/master/app-art/detail-view/dv-dark-emoji-0002%402x.png)
+![Image of Dark Emoji 2](https://github.com/jpavley/Dark-Emoji/blob/master/app-art/dv-dark-emoji-0002%402x.png)
 
 Early in 2018 Apple started rejecting apps that used Apple Emoji Font emoji as user interface elements. This change in policy or enforcement of existing policy meant that my apps, [Emoji Tac Toe](https://github.com/jpavley/Emoji-Tac-Toe2) and [Emoji Spy](https://github.com/jpavley/EmojiWorkshop), were no longer acceptable for publishing in the Apple App Store. And that's fine. It' Apple artwork and its Apple's store. Thus, I needed replacement emoji art if I wanted to continue my exploration of emoji.
 
@@ -14,7 +14,7 @@ So be patient or join in :)
 
 ## Design Idea
 
-![Image of Dark Emoji 12](https://github.com/jpavley/Dark-Emoji/blob/master/app-art/detail-view/dv-dark-emoji-0012%402x.png)
+![Image of Dark Emoji 12](https://github.com/jpavley/Dark-Emoji/blob/master/app-art/dv-dark-emoji-0012%402x.png)
 
 
 Traditional emoji are bright, sunny, and cute. Dark Emoji for dark, gothic, and cute. Dark Emoji are not a replacement for traditional emoji--they represent a different emotional tone. Sometimes you want to LOL in a darker vein. Sometime you're crying scarlet tears. Sometime the mortality of all things infuses your mood and gives it a deep bass undertone of meaning to the trivial communications of life.
@@ -23,7 +23,7 @@ Long term, spectrum of human emotion can't be contained by yellow smileyes and y
 
 ## Technical Notes
 
-![Image of Dark Emoji 27](https://github.com/jpavley/Dark-Emoji/blob/master/app-art/detail-view/dv-dark-emoji-0027%402x.png)
+![Image of Dark Emoji 27](https://github.com/jpavley/Dark-Emoji/blob/master/app-art/dv-dark-emoji-0027%402x.png)
 
 I'm using a commercial macOS app called [Graphics](http://www.graphic.com) to design and implement Dark Emoji. It's not open source and it's not made by Adobe but I'm really happy with it. Its fast and reliable and has great export options, including SVG, PNG, and Swift Code.
 
