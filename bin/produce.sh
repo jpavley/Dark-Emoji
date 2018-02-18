@@ -15,7 +15,9 @@
 #  size is given a prefix based on its use case: (dv, tc,
 #  tb). Produce.sh uses Apples Sips tool.
 
-#  Example usage: ./produce.sh sourceDirectory outputDirectory
+#  Syntax: ./produce.sh source_directory destination_directory
+
+#  Example usage: ./produce.sh ~/Dev/Dark-Emoji/intermediate-files ~/Dev/Dark-Emoji/app-art
 
 
 SOURCE_DIRECTORY="$1"
